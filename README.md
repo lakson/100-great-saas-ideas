@@ -15,14 +15,8 @@ For each SaaS idea, you’ll find:
 - **Market Trends & Search Volume** 📈: Data on demand and audience reach.
 - **Source Links** 🔗: Access to discussions and feedback that inspired these ideas.
 
-## [Explore the Full List Here!](https://my-saas-ideas.com/100-great-saas-product-ideas)
+### [Explore the Full List Here!](https://my-saas-ideas.com/100-great-saas-product-ideas)
 
 ---
-
-## How You Can Contribute
-I’d love feedback from the community! If you have ideas, spot new trends, or think there’s a pain point missing from the list, feel free to:
-1. **Open an Issue**: Share your thoughts or requests for more ideas.
-2. **Fork the Repo**: Help improve or expand the list.
-3. **Start a Discussion**: Let’s brainstorm and collaborate on the next generation of SaaS solutions.
 
 Thanks for checking it out! Let’s build tools that solve real problems. ✌️
